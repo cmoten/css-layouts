@@ -1,6 +1,6 @@
 # Project Purpose
 
-The purpose of this project is to learn the basics of navigation tabs and to learn basic CSS layouts.
+The purpose of this project is to learn the basics of navigation tabs and to learn basic CSS layouts. The examples are from the book [HTML&CSS design and build websites](https://htmlandcssbook.com/) by Jon Duckett.
 
 # CssLayouts
 
