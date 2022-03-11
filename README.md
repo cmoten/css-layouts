@@ -1,3 +1,7 @@
+# Project Purpose
+
+The purpose of this project is to learn the basics of navigation tabs and to learn basic CSS layouts.
+
 # CssLayouts
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.4.
