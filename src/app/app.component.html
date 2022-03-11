@@ -2,17 +2,20 @@
   <div class="row">
     <div class="col-xs-12 col-sm-10 col-md-8 col-sm-offset-1 col-md-offset-2">
       <ul class="nav nav-tabs">
-        <li role="presentation" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">
-          <a routerLink="/">Static</a>
+        <li class="nav-item" routerLinkActive="active" [routerLinkActiveOptions]="{exact:true}">
+          <a class="nav-link" role="tab" routerLink="/">Static</a>
         </li>
-        <li role="presentation" routerLinkActive="active">
-          <a routerLink="/relative">Relative</a>
+        <li class="nav-item" routerLinkActive="active">
+          <a class="nav-link" role="tab" routerLink="/relative">Relative</a>
         </li>
-        <li role="presentation" routerLinkActive="active">
-          <a routerLink="/absolute">Absolute</a>
+        <li class="nav-item" routerLinkActive="active">
+          <a class="nav-link" role="tab" routerLink="/absolute">Absolute</a>
         </li>
-        <li role="presentation" routerLinkActive="active">
-          <a routerLink="/fixed">Fixed</a>
+        <li class="nav-item" routerLinkActive="active">
+          <a class="nav-link" role="tab" routerLink="/fixed">Fixed</a>
+        </li>
+        <li class="nav-item" routerLinkActive="active">
+          <a class="nav-link" role="tab" routerLink="/float">Float</a>
         </li>
       </ul>
     </div>

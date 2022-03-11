@@ -1,0 +1,10 @@
+h1.bicycle {
+  position: absolute;
+  top: 250px;
+  left: 800px;
+  width: 250px;
+}
+
+p {
+  width: 450px;
+}

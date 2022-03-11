@@ -5,6 +5,7 @@ import { AbsoluteComponent } from './absolute/absolute.component';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { FixedComponent } from './fixed/fixed.component';
+import { FloatComponent } from './float/float.component';
 import { RelativeComponent } from './relative/relative.component';
 import { StaticComponent } from './static/static.component';
 
@@ -15,6 +16,7 @@ import { StaticComponent } from './static/static.component';
     RelativeComponent,
     FixedComponent,
     AbsoluteComponent,
+    FloatComponent,
   ],
   imports: [BrowserModule, AppRoutingModule],
   providers: [],
