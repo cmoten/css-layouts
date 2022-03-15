@@ -6,6 +6,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { FixedComponent } from './fixed/fixed.component';
 import { FloatComponent } from './float/float.component';
+import { MultiColumnComponent } from './multi-column/multi-comlumn.component';
 import { RelativeComponent } from './relative/relative.component';
 import { StaticComponent } from './static/static.component';
 
@@ -17,6 +18,7 @@ import { StaticComponent } from './static/static.component';
     FixedComponent,
     AbsoluteComponent,
     FloatComponent,
+    MultiColumnComponent,
   ],
   imports: [BrowserModule, AppRoutingModule],
   providers: [],
